@@ -1,0 +1,16 @@
+D:\lessons\MyThirdApp\bin\Debug\net5.0\MyThirdApp.exe
+D:\lessons\MyThirdApp\bin\Debug\net5.0\MyThirdApp.deps.json
+D:\lessons\MyThirdApp\bin\Debug\net5.0\MyThirdApp.runtimeconfig.json
+D:\lessons\MyThirdApp\bin\Debug\net5.0\MyThirdApp.runtimeconfig.dev.json
+D:\lessons\MyThirdApp\bin\Debug\net5.0\MyThirdApp.dll
+D:\lessons\MyThirdApp\bin\Debug\net5.0\ref\MyThirdApp.dll
+D:\lessons\MyThirdApp\bin\Debug\net5.0\MyThirdApp.pdb
+D:\lessons\MyThirdApp\obj\Debug\net5.0\MyThirdApp.csprojAssemblyReference.cache
+D:\lessons\MyThirdApp\obj\Debug\net5.0\MyThirdApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\lessons\MyThirdApp\obj\Debug\net5.0\MyThirdApp.AssemblyInfoInputs.cache
+D:\lessons\MyThirdApp\obj\Debug\net5.0\MyThirdApp.AssemblyInfo.cs
+D:\lessons\MyThirdApp\obj\Debug\net5.0\MyThirdApp.csproj.CoreCompileInputs.cache
+D:\lessons\MyThirdApp\obj\Debug\net5.0\MyThirdApp.dll
+D:\lessons\MyThirdApp\obj\Debug\net5.0\ref\MyThirdApp.dll
+D:\lessons\MyThirdApp\obj\Debug\net5.0\MyThirdApp.pdb
+D:\lessons\MyThirdApp\obj\Debug\net5.0\MyThirdApp.genruntimeconfig.cache
